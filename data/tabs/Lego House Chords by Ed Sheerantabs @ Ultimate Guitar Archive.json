@@ -1,0 +1,933 @@
+{
+  "title": "Lego House",
+  "artist": "Ed Sheeran",
+  "difficulty": "beginner",
+  "tuning": "E A D G B E",
+  "capo": "4th fret",
+  "key": "B",
+  "chords_required": [
+    "C",
+    "D",
+    "Em",
+    "G",
+    "G/B"
+  ],
+  "content": [
+    {
+      "section": "Intro",
+      "lines": [
+        {
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 0
+            },
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 0
+            }
+          ],
+          "lyrics": ""
+        }
+      ]
+    },
+    {
+      "section": "Verse 1",
+      "lines": [
+        {
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 18
+            },
+            {
+              "chord": "Em",
+              "position": 24
+            }
+          ],
+          "lyrics": "I'm gonna pick up the pieces,"
+        },
+        {
+          "chords": [
+            {
+              "chord": "D",
+              "position": 12
+            },
+            {
+              "chord": "G",
+              "position": 21
+            }
+          ],
+          "lyrics": "and build a lego house"
+        },
+        {
+          "chords": [
+            {
+              "chord": "D",
+              "position": 15
+            },
+            {
+              "chord": "Em",
+              "position": 28
+            }
+          ],
+          "lyrics": "when things go wrong we can knock it down"
+        },
+        {
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 20
+            },
+            {
+              "chord": "Em",
+              "position": 27
+            }
+          ],
+          "lyrics": "My three words have two meanings,"
+        },
+        {
+          "chords": [
+            {
+              "chord": "D",
+              "position": 18
+            },
+            {
+              "chord": "G",
+              "position": 24
+            }
+          ],
+          "lyrics": "there's one thing on my mind"
+        },
+        {
+          "chords": [
+            {
+              "chord": "D",
+              "position": 9
+            },
+            {
+              "chord": "Em",
+              "position": 13
+            },
+            {
+              "chord": "D",
+              "position": 20
+            }
+          ],
+          "lyrics": "It's all fooor you, hm-hm"
+        }
+      ]
+    },
+    {
+      "section": "Pre-chorus",
+      "lines": [
+        {
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            }
+          ],
+          "lyrics": "And it's dark in a cold December, but I've"
+        },
+        {
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            }
+          ],
+          "lyrics": "If you're broken I will mend ya and keep"
+        },
+        {
+          "chords": [
+            {
+              "chord": "D",
+              "position": 16
+            }
+          ],
+          "lyrics": "that's raging on"
+        },
+        {
+          "chords": [
+            {
+              "chord": "D",
+              "position": 0
+            }
+          ],
+          "lyrics": ""
+        },
+        {
+          "chords": [
+            {
+              "chord": "D",
+              "position": 10
+            },
+            {
+              "chord": "Em",
+              "position": 20
+            },
+            {
+              "chord": "D",
+              "position": 22
+            }
+          ],
+          "lyrics": "got ya to keep me warm"
+        },
+        {
+          "chords": [
+            {
+              "chord": "D",
+              "position": 4
+            },
+            {
+              "chord": "Em",
+              "position": 21
+            }
+          ],
+          "lyrics": "you sheltered from the storm"
+        }
+      ]
+    },
+    {
+      "section": "Chorus",
+      "lines": [
+        {
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 22
+            },
+            {
+              "chord": "Em",
+              "position": 33
+            }
+          ],
+          "lyrics": "I'm out of touch, I'm out of love"
+        },
+        {
+          "chords": [
+            {
+              "chord": "D",
+              "position": 38
+            },
+            {
+              "chord": "G",
+              "position": 29
+            }
+          ],
+          "lyrics": "I'll pick you up when you're getting down"
+        },
+        {
+          "chords": [
+            {
+              "chord": "G/B",
+              "position": 21
+            },
+            {
+              "chord": "C",
+              "position": 33
+            }
+          ],
+          "lyrics": "And out of all these things I've done I"
+        },
+        {
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 22
+            },
+            {
+              "chord": "Em",
+              "position": 33
+            }
+          ],
+          "lyrics": "I'm out of sight, I'm out of mind"
+        },
+        {
+          "chords": [
+            {
+              "chord": "G",
+              "position": 23
+            },
+            {
+              "chord": "D",
+              "position": 28
+            }
+          ],
+          "lyrics": "I'll do it all for you in time"
+        },
+        {
+          "chords": [
+            {
+              "chord": "G/B",
+              "position": 21
+            },
+            {
+              "chord": "C",
+              "position": 33
+            }
+          ],
+          "lyrics": "And out of all these things I've done I"
+        },
+        {
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "Em",
+              "position": 2
+            },
+            {
+              "chord": "D",
+              "position": 3
+            }
+          ],
+          "lyrics": "Now"
+        }
+      ]
+    },
+    {
+      "section": "Verse 2",
+      "lines": [
+        {
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 20
+            },
+            {
+              "chord": "Em",
+              "position": 26
+            }
+          ],
+          "lyrics": "I'm gonna paint you by numbers"
+        },
+        {
+          "chords": [
+            {
+              "chord": "D",
+              "position": 11
+            },
+            {
+              "chord": "G",
+              "position": 17
+            }
+          ],
+          "lyrics": "and colour you in"
+        },
+        {
+          "chords": [
+            {
+              "chord": "D",
+              "position": 13
+            },
+            {
+              "chord": "Em",
+              "position": 27
+            }
+          ],
+          "lyrics": "if things go right we can frame it, and"
+        },
+        {
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 17
+            },
+            {
+              "chord": "Em",
+              "position": 24
+            }
+          ],
+          "lyrics": "And it's so hard to say it but I've"
+        },
+        {
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 20
+            },
+            {
+              "chord": "Em",
+              "position": 28
+            }
+          ],
+          "lyrics": "now I'll surrender up my heart"
+        },
+        {
+          "chords": [
+            {
+              "chord": "D",
+              "position": 16
+            }
+          ],
+          "lyrics": "and swap it for yours"
+        }
+      ]
+    },
+    {
+      "section": "Chorus",
+      "lines": [
+        {
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 22
+            },
+            {
+              "chord": "Em",
+              "position": 33
+            }
+          ],
+          "lyrics": "I'm out of touch, I'm out of love"
+        },
+        {
+          "chords": [
+            {
+              "chord": "G",
+              "position": 32
+            },
+            {
+              "chord": "D",
+              "position": 37
+            }
+          ],
+          "lyrics": "I'll pick you up when you're getting down"
+        },
+        {
+          "chords": [
+            {
+              "chord": "G/B",
+              "position": 21
+            },
+            {
+              "chord": "C",
+              "position": 33
+            }
+          ],
+          "lyrics": "And out of all these things I've done I"
+        },
+        {
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 22
+            },
+            {
+              "chord": "Em",
+              "position": 33
+            }
+          ],
+          "lyrics": "I'm out of sight, I'm out of mind"
+        },
+        {
+          "chords": [
+            {
+              "chord": "G",
+              "position": 23
+            },
+            {
+              "chord": "D",
+              "position": 28
+            }
+          ],
+          "lyrics": "I'll do it all for you in time"
+        },
+        {
+          "chords": [
+            {
+              "chord": "G/B",
+              "position": 21
+            },
+            {
+              "chord": "C",
+              "position": 33
+            }
+          ],
+          "lyrics": "And out of all these things I've done I"
+        }
+      ]
+    },
+    {
+      "section": "Bridge",
+      "lines": [
+        {
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 6
+            },
+            {
+              "chord": "C",
+              "position": 15
+            }
+          ],
+          "lyrics": "Don't hold me down"
+        },
+        {
+          "chords": [
+            {
+              "chord": "D",
+              "position": 11
+            }
+          ],
+          "lyrics": "I think my braces are breaking and it's"
+        }
+      ]
+    },
+    {
+      "section": "Pre-chorus",
+      "lines": [
+        {
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            }
+          ],
+          "lyrics": "And it's dark in a cold December, but I've"
+        },
+        {
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            }
+          ],
+          "lyrics": "If you're broken I will mend ya and keep"
+        },
+        {
+          "chords": [
+            {
+              "chord": "D",
+              "position": 17
+            }
+          ],
+          "lyrics": "think I love you better now"
+        },
+        {
+          "chords": [
+            {
+              "chord": "D",
+              "position": 17
+            }
+          ],
+          "lyrics": "think I love you better now"
+        },
+        {
+          "chords": [
+            {
+              "chord": "D",
+              "position": 13
+            }
+          ],
+          "lyrics": "put you on a wall"
+        },
+        {
+          "chords": [
+            {
+              "chord": "D",
+              "position": 12
+            }
+          ],
+          "lyrics": "been here before"
+        },
+        {
+          "chords": [
+            {
+              "chord": "D",
+              "position": 17
+            }
+          ],
+          "lyrics": "think I love you better now"
+        },
+        {
+          "chords": [
+            {
+              "chord": "D",
+              "position": 17
+            }
+          ],
+          "lyrics": "think I love you better now"
+        },
+        {
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 18
+            }
+          ],
+          "lyrics": "more than I can taaaake"
+        },
+        {
+          "chords": [
+            {
+              "chord": "D",
+              "position": 10
+            },
+            {
+              "chord": "Em",
+              "position": 20
+            },
+            {
+              "chord": "D",
+              "position": 22
+            }
+          ],
+          "lyrics": "got ya to keep me warm"
+        },
+        {
+          "chords": [
+            {
+              "chord": "D",
+              "position": 4
+            },
+            {
+              "chord": "Em",
+              "position": 21
+            }
+          ],
+          "lyrics": "you sheltered from the storm"
+        },
+        {
+          "chords": [
+            {
+              "chord": "D",
+              "position": 14
+            }
+          ],
+          "lyrics": "that's raging ooon now"
+        }
+      ]
+    },
+    {
+      "section": "Chorus",
+      "lines": [
+        {
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 22
+            },
+            {
+              "chord": "Em",
+              "position": 33
+            }
+          ],
+          "lyrics": "I'm out of touch, I'm out of love"
+        },
+        {
+          "chords": [
+            {
+              "chord": "G",
+              "position": 29
+            },
+            {
+              "chord": "D",
+              "position": 38
+            }
+          ],
+          "lyrics": "I'll pick you up when you're getting down"
+        },
+        {
+          "chords": [
+            {
+              "chord": "G/B",
+              "position": 21
+            },
+            {
+              "chord": "C",
+              "position": 33
+            }
+          ],
+          "lyrics": "And out of all these things I've done I"
+        },
+        {
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 22
+            },
+            {
+              "chord": "Em",
+              "position": 33
+            }
+          ],
+          "lyrics": "I'm out of sight, I'm out of mind"
+        },
+        {
+          "chords": [
+            {
+              "chord": "G",
+              "position": 23
+            },
+            {
+              "chord": "D",
+              "position": 27
+            }
+          ],
+          "lyrics": "I'll do it all for you in time"
+        },
+        {
+          "chords": [
+            {
+              "chord": "G/B",
+              "position": 21
+            },
+            {
+              "chord": "C",
+              "position": 33
+            }
+          ],
+          "lyrics": "And out of all these things I've done I"
+        },
+        {
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 22
+            },
+            {
+              "chord": "Em",
+              "position": 33
+            }
+          ],
+          "lyrics": "I'm out of touch, I'm out of love"
+        },
+        {
+          "chords": [
+            {
+              "chord": "G",
+              "position": 29
+            },
+            {
+              "chord": "D",
+              "position": 38
+            }
+          ],
+          "lyrics": "I'll pick you up when you're getting down"
+        },
+        {
+          "chords": [
+            {
+              "chord": "G/B",
+              "position": 21
+            },
+            {
+              "chord": "C",
+              "position": 33
+            }
+          ],
+          "lyrics": "And out of all these things I've done I"
+        },
+        {
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 22
+            },
+            {
+              "chord": "Em",
+              "position": 33
+            }
+          ],
+          "lyrics": "I'm out of sight, I'm out of mind"
+        },
+        {
+          "chords": [
+            {
+              "chord": "G",
+              "position": 23
+            },
+            {
+              "chord": "D",
+              "position": 27
+            }
+          ],
+          "lyrics": "I'll do it all for you in time"
+        },
+        {
+          "chords": [
+            {
+              "chord": "G/B",
+              "position": 21
+            },
+            {
+              "chord": "C",
+              "position": 33
+            }
+          ],
+          "lyrics": "And out of all these things I've done I"
+        }
+      ]
+    },
+    {
+      "section": "Outro",
+      "lines": [
+        {
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 22
+            },
+            {
+              "chord": "Em",
+              "position": 33
+            }
+          ],
+          "lyrics": "I'm out of touch, I'm out of love"
+        },
+        {
+          "chords": [
+            {
+              "chord": "G",
+              "position": 29
+            },
+            {
+              "chord": "D",
+              "position": 39
+            }
+          ],
+          "lyrics": "I'll pick you up when you're getting down"
+        },
+        {
+          "chords": [
+            {
+              "chord": "G/B",
+              "position": 21
+            },
+            {
+              "chord": "C",
+              "position": 33
+            }
+          ],
+          "lyrics": "And out of all these things I've done I"
+        },
+        {
+          "chords": [
+            {
+              "chord": "D",
+              "position": 17
+            }
+          ],
+          "lyrics": "think I love you better now"
+        },
+        {
+          "chords": [
+            {
+              "chord": "D",
+              "position": 17
+            }
+          ],
+          "lyrics": "think I love you better now"
+        },
+        {
+          "chords": [
+            {
+              "chord": "D",
+              "position": 17
+            }
+          ],
+          "lyrics": "think I love you better now"
+        },
+        {
+          "chords": [
+            {
+              "chord": "D",
+              "position": 17
+            }
+          ],
+          "lyrics": "think I love you better now"
+        },
+        {
+          "chords": [
+            {
+              "chord": "D",
+              "position": 14
+            },
+            {
+              "chord": "G",
+              "position": 23
+            }
+          ],
+          "lyrics": "will love you better now"
+        }
+      ]
+    }
+  ]
+}
