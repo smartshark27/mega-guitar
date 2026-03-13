@@ -1,5 +1,12 @@
-import { getTabBySlug } from '@/lib/tabs';
+import { getTabBySlug, getAllTabs } from '@/lib/tabs';
 import { notFound } from 'next/navigation';
+
+export async function generateStaticParams() {
+  const tabs = await getAllTabs();
+  return tabs.map((tab) => ({
+    slug: tab.slug,
+  }));
+}
 
 interface Props {
   params: Promise<{
