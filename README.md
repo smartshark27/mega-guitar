@@ -1,5 +1,7 @@
 # Mega Guitar
 
+[https://smartshark27.github.io/mega-guitar/](https://smartshark27.github.io/mega-guitar/)
+
 Free and ad-free alternative to Ultimate Guitar.
 
 ## Website
