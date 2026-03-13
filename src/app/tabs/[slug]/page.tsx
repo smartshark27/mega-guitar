@@ -1,5 +1,6 @@
 import { getTabBySlug, getAllTabs } from '@/lib/tabs';
 import { notFound } from 'next/navigation';
+import Link from 'next/link';
 
 export async function generateStaticParams() {
   const tabs = await getAllTabs();
@@ -25,6 +26,9 @@ export default async function TabPage({ params }: Props) {
 
   return (
     <div className="mono">
+      <Link href="/" style={{ display: 'inline-block', marginBottom: '1.5rem', fontSize: '0.9rem', color: 'var(--muted)', textDecoration: 'none' }}>
+        ← Back to list
+      </Link>
       <header style={{ marginBottom: '2rem' }}>
         <h2 style={{ fontSize: '2rem', marginBottom: '0.25rem' }}>{tab.title}</h2>
         <p style={{ fontSize: '1.25rem', color: 'var(--muted)', marginTop: 0 }}>{tab.artist}</p>
