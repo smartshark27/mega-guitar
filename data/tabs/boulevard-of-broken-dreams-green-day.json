@@ -1,0 +1,374 @@
+{
+  "title": "Boulevard of Broken Dreams",
+  "artist": "Green Day",
+  "difficulty": "intermediate",
+  "tuning": "E A D G B E",
+  "capo": "1st fret",
+  "key": "Em",
+  "chords_required": [
+    "A",
+    "B7",
+    "C",
+    "D",
+    "Em",
+    "G"
+  ],
+  "content": [
+    {
+      "section": "Intro",
+      "lines": [
+        {
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 5
+            },
+            {
+              "chord": "D",
+              "position": 10
+            },
+            {
+              "chord": "A",
+              "position": 15
+            }
+          ],
+          "lyrics": ""
+        },
+        {
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 5
+            },
+            {
+              "chord": "D",
+              "position": 10
+            },
+            {
+              "chord": "A",
+              "position": 15
+            }
+          ],
+          "lyrics": ""
+        }
+      ]
+    },
+    {
+      "section": "Verse 1",
+      "lines": [
+        {
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 12
+            }
+          ],
+          "lyrics": "I walk a lonely road"
+        },
+        {
+          "chords": [
+            {
+              "chord": "D",
+              "position": 0
+            },
+            {
+              "chord": "A",
+              "position": 13
+            },
+            {
+              "chord": "Em",
+              "position": 31
+            }
+          ],
+          "lyrics": "The only one that I have ever known"
+        },
+        {
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            }
+          ],
+          "lyrics": "Don't know where it goes"
+        },
+        {
+          "chords": [
+            {
+              "chord": "D",
+              "position": 0
+            },
+            {
+              "chord": "A",
+              "position": 13
+            },
+            {
+              "chord": "Em",
+              "position": 31
+            },
+            {
+              "chord": "G",
+              "position": 37
+            },
+            {
+              "chord": "D",
+              "position": 43
+            }
+          ],
+          "lyrics": "But it's home to me and I walk alone"
+        },
+        {
+          "chords": [
+            {
+              "chord": "A",
+              "position": 0
+            }
+          ],
+          "lyrics": "(I walk alone)"
+        }
+      ]
+    },
+    {
+      "section": "Verse 2",
+      "lines": [
+        {
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 12
+            }
+          ],
+          "lyrics": "I walk this empty street"
+        },
+        {
+          "chords": [
+            {
+              "chord": "D",
+              "position": 0
+            },
+            {
+              "chord": "A",
+              "position": 13
+            },
+            {
+              "chord": "Em",
+              "position": 31
+            }
+          ],
+          "lyrics": "On the Boulevard of Broken Dreams"
+        },
+        {
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            }
+          ],
+          "lyrics": "Where the city sleeps"
+        },
+        {
+          "chords": [
+            {
+              "chord": "D",
+              "position": 0
+            },
+            {
+              "chord": "A",
+              "position": 13
+            },
+            {
+              "chord": "Em",
+              "position": 31
+            },
+            {
+              "chord": "G",
+              "position": 37
+            }
+          ],
+          "lyrics": "And I'm the only one and I walk alone"
+        },
+        {
+          "chords": [
+            {
+              "chord": "D",
+              "position": 0
+            },
+            {
+              "chord": "A",
+              "position": 13
+            },
+            {
+              "chord": "Em",
+              "position": 31
+            },
+            {
+              "chord": "G",
+              "position": 37
+            }
+          ],
+          "lyrics": "I walk alone, I walk alone"
+        },
+        {
+          "chords": [
+            {
+              "chord": "D",
+              "position": 0
+            },
+            {
+              "chord": "A",
+              "position": 13
+            }
+          ],
+          "lyrics": "I walk alone, I walk a..."
+        }
+      ]
+    },
+    {
+      "section": "Chorus",
+      "lines": [
+        {
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 13
+            },
+            {
+              "chord": "D",
+              "position": 24
+            },
+            {
+              "chord": "Em",
+              "position": 44
+            }
+          ],
+          "lyrics": "My shadow's the only one that walks beside me"
+        },
+        {
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 13
+            },
+            {
+              "chord": "D",
+              "position": 24
+            },
+            {
+              "chord": "Em",
+              "position": 44
+            }
+          ],
+          "lyrics": "My shallow heart's the only thing that's beating"
+        },
+        {
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 13
+            },
+            {
+              "chord": "D",
+              "position": 24
+            },
+            {
+              "chord": "Em",
+              "position": 44
+            }
+          ],
+          "lyrics": "Sometimes I wish someone out there will find me"
+        },
+        {
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 13
+            },
+            {
+              "chord": "B7",
+              "position": 24
+            }
+          ],
+          "lyrics": "'Til then I walk alone"
+        }
+      ]
+    },
+    {
+      "section": "Interlude",
+      "lines": [
+        {
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 5
+            },
+            {
+              "chord": "D",
+              "position": 10
+            },
+            {
+              "chord": "A",
+              "position": 15
+            }
+          ],
+          "lyrics": "Ah-ah, Ah-ah, Ah-ah, Aaah-"
+        },
+        {
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 5
+            },
+            {
+              "chord": "D",
+              "position": 10
+            },
+            {
+              "chord": "A",
+              "position": 15
+            }
+          ],
+          "lyrics": "Ah-ah, Ah-ah, Ah-ah, Ah-ah"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Guitar Tab Schema",
+  "type": "object",
+  "required": [
+    "title",
+    "artist",
+    "difficulty",
+    "tuning",
+    "capo",
+    "key",
+    "chords_required",
+    "content"
+  ],
+  "properties": {
+    "title": {
+      "type": "string",
+      "description": "The title of the song."
+    },
+    "artist": {
+      "type": "string",
+      "description": "The name of the artist or band."
+    },
+    "difficulty": {
+      "type": "string",
+      "enum": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "description": "The playing difficulty level."
+    },
+    "tuning": {
+      "type": "string",
+      "description": "The guitar tuning (e.g., 'E A D G B E')."
+    },
+    "capo": {
+      "type": "string",
+      "description": "Capo position (e.g., '4th fret' or empty string)."
+    },
+    "key": {
+      "type": "string",
+      "description": "The musical key of the song."
+    },
+    "chords_required": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "A list of unique chords used in the song."
+    },
+    "content": {
+      "type": "array",
+      "description": "The structured musical content divided by sections.",
+      "items": {
+        "type": "object",
+        "required": [
+          "section",
+          "lines"
+        ],
+        "properties": {
+          "section": {
+            "type": "string",
+            "description": "The name of the section (e.g., 'Chorus', 'Verse 1')."
+          },
+          "lines": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": [
+                "chords",
+                "lyrics"
+              ],
+              "properties": {
+                "chords": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "required": [
+                      "chord",
+                      "position"
+                    ],
+                    "properties": {
+                      "chord": {
+                        "type": "string"
+                      },
+                      "position": {
+                        "type": "integer",
+                        "minimum": 0,
+                        "description": "The character index in the lyrics where the chord should be placed."
+                      }
+                    }
+                  }
+                },
+                "lyrics": {
+                  "type": "string",
+                  "description": "The line of lyrics or tab notation."
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

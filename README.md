@@ -2,7 +2,7 @@
 
 [https://smartshark27.github.io/mega-guitar/](https://smartshark27.github.io/mega-guitar/)
 
-Free and ad-free alternative to Ultimate Guitar.
+Website to display my favourite acoutsic guitar tabs without ads or subscriptions.
 
 ## Website
 
