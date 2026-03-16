@@ -1,6 +1,10 @@
 import { getTabBySlug, getAllTabs } from '@/lib/tabs';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
+import ChordInfo from '@/components/ChordInfo';
+import chordsData from '@/../data/chords.json';
+
+const CHORDS: Record<string, { frets: number[]; fingers: number[] }> = chordsData as any;
 
 export async function generateStaticParams() {
   const tabs = await getAllTabs();
@@ -47,7 +51,9 @@ export default async function TabPage({ params }: Props) {
         </div>
         <div className="chords-required">
           {tab.chords_required.map((chord) => (
-            <span key={chord} className="chord-badge">{chord}</span>
+            <div key={chord} style={{ position: 'relative' }}>
+              <ChordInfo name={chord} fingering={CHORDS[chord]} />
+            </div>
           ))}
         </div>
       </div>
@@ -60,15 +66,15 @@ export default async function TabPage({ params }: Props) {
               <div key={lIdx} className="line">
                 <div className="chord-row">
                   {line.chords.map((chord, cIdx) => (
-                    <span 
+                    <div 
                       key={cIdx} 
-                      className="chord"
+                      className="chord-container"
                       style={{ 
                         left: `${chord.position}ch`,
                       }}
                     >
-                      {chord.chord}
-                    </span>
+                      <ChordInfo name={chord.chord} fingering={CHORDS[chord.chord]} />
+                    </div>
                   ))}
                 </div>
                 <div className="lyrics">{line.lyrics || ' '}</div>

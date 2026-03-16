@@ -60,6 +60,12 @@ h1, h2, h3 {
   position: relative;
   margin-bottom: 0.5rem;
   padding-top: 1.25rem; /* Space for chords */
+  z-index: 1;
+}
+
+.line:focus-within,
+.line:has(.is-active) {
+  z-index: 1000;
 }
 
 .chord-row {
@@ -67,13 +73,90 @@ h1, h2, h3 {
   top: 0;
   left: 0;
   height: 1.25rem;
-  pointer-events: none;
+  pointer-events: auto;
 }
 
-.chord {
+.chord-container {
   position: absolute;
+  display: inline-block;
+}
+
+.chord-container.is-active {
+  z-index: 10000;
+}
+
+.chord-button {
+  all: unset;
+  cursor: pointer;
   font-weight: bold;
   color: var(--accent);
+  padding: 0 0.1rem;
+  background: transparent;
+  transition: background 0.1s;
+  border-radius: 3px;
+}
+
+.chord-button:hover {
+  background: rgba(0, 112, 243, 0.1);
+}
+
+.chord-popover {
+  position: absolute;
+  top: 1.5rem;
+  left: 50%;
+  transform: translateX(-50%);
+  background: white;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+  padding: 0.75rem;
+  min-width: 120px;
+  z-index: 1000;
+}
+
+.chord-popover-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.5rem;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 0.25rem;
+}
+
+.close-popover {
+  all: unset;
+  cursor: pointer;
+  color: var(--muted);
+  font-size: 1.25rem;
+  line-height: 1;
+}
+
+.chord-fingering-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  font-size: 0.8rem;
+}
+
+.chord-fingering-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.string-name {
+  color: var(--muted);
+  font-weight: bold;
+}
+
+.fret-number {
+  font-family: ui-monospace, SFMono-Regular, monospace;
+}
+
+.finger-number {
+  color: var(--muted);
+  font-style: italic;
 }
 
 .metadata {

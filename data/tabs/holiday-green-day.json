@@ -1,0 +1,351 @@
+{
+  "title": "Holiday",
+  "artist": "Green Day",
+  "difficulty": "intermediate",
+  "tuning": "E A D G B E",
+  "capo": "none",
+  "key": "Fm",
+  "chords_required": [
+    "Fm",
+    "Ab",
+    "Db",
+    "Bb",
+    "Eb",
+    "C"
+  ],
+  "content": [
+    {
+      "section": "Intro",
+      "lines": [
+        {
+          "chords": [
+            { "chord": "Fm", "position": 0 },
+            { "chord": "Ab", "position": 4 },
+            { "chord": "Db", "position": 8 },
+            { "chord": "Bb", "position": 12 },
+            { "chord": "Eb", "position": 16 },
+            { "chord": "C", "position": 20 }
+          ],
+          "lyrics": "Fm Ab Db Bb Eb C"
+        },
+        {
+          "chords": [
+            { "chord": "Fm", "position": 0 },
+            { "chord": "Ab", "position": 4 },
+            { "chord": "Db", "position": 8 },
+            { "chord": "Bb", "position": 12 },
+            { "chord": "Eb", "position": 16 },
+            { "chord": "C", "position": 20 }
+          ],
+          "lyrics": "Fm Ab Db Bb Eb C"
+        }
+      ]
+    },
+    {
+      "section": "Verse 1",
+      "lines": [
+        {
+          "chords": [
+            { "chord": "Fm", "position": 0 },
+            { "chord": "Ab", "position": 15 },
+            { "chord": "Db", "position": 25 },
+            { "chord": "Bb", "position": 35 }
+          ],
+          "lyrics": "Hear the sound of the falling rain"
+        },
+        {
+          "chords": [
+            { "chord": "Eb", "position": 0 },
+            { "chord": "C", "position": 10 }
+          ],
+          "lyrics": "Coming down like an Armageddon flame (Hey!)"
+        },
+        {
+          "chords": [
+            { "chord": "Fm", "position": 0 },
+            { "chord": "Ab", "position": 10 },
+            { "chord": "Db", "position": 20 },
+            { "chord": "Bb", "position": 30 }
+          ],
+          "lyrics": "The shame, the ones who died without a name"
+        },
+        {
+          "chords": [
+            { "chord": "Fm", "position": 0 },
+            { "chord": "Ab", "position": 10 },
+            { "chord": "Db", "position": 20 },
+            { "chord": "Bb", "position": 30 }
+          ],
+          "lyrics": "Hear the dogs howling out of key"
+        },
+        {
+          "chords": [
+            { "chord": "Eb", "position": 0 },
+            { "chord": "C", "position": 10 }
+          ],
+          "lyrics": "To a hymn called 'Faith and Misery' (Hey!)"
+        },
+        {
+          "chords": [
+            { "chord": "Fm", "position": 0 },
+            { "chord": "Ab", "position": 10 },
+            { "chord": "Db", "position": 20 },
+            { "chord": "Bb", "position": 30 }
+          ],
+          "lyrics": "And bleed, the company lost the war today"
+        }
+      ]
+    },
+    {
+      "section": "Chorus",
+      "lines": [
+        {
+          "chords": [
+            { "chord": "Fm", "position": 0 },
+            { "chord": "Db", "position": 15 },
+            { "chord": "Ab", "position": 25 },
+            { "chord": "Eb", "position": 35 }
+          ],
+          "lyrics": "I beg to dream and differ from the hollow lies"
+        },
+        {
+          "chords": [
+            { "chord": "Fm", "position": 0 },
+            { "chord": "Db", "position": 15 },
+            { "chord": "Ab", "position": 25 },
+            { "chord": "C", "position": 35 }
+          ],
+          "lyrics": "This is the dawning of the rest of our lives"
+        },
+        {
+          "chords": [
+            { "chord": "Fm", "position": 0 },
+            { "chord": "Db", "position": 3 },
+            { "chord": "Ab", "position": 6 },
+            { "chord": "Eb", "position": 9 }
+          ],
+          "lyrics": "On holiday"
+        }
+      ]
+    },
+    {
+      "section": "Verse 2",
+      "lines": [
+        {
+          "chords": [
+            { "chord": "Fm", "position": 0 },
+            { "chord": "Ab", "position": 10 },
+            { "chord": "Db", "position": 20 },
+            { "chord": "Bb", "position": 30 }
+          ],
+          "lyrics": "There's a drum pounding out of time"
+        },
+        {
+          "chords": [
+            { "chord": "Eb", "position": 0 },
+            { "chord": "C", "position": 10 }
+          ],
+          "lyrics": "Another protester has crossed the line (Hey!)"
+        },
+        {
+          "chords": [
+            { "chord": "Fm", "position": 0 },
+            { "chord": "Ab", "position": 10 },
+            { "chord": "Db", "position": 20 },
+            { "chord": "Bb", "position": 30 }
+          ],
+          "lyrics": "To find, the money's on the other side"
+        },
+        {
+          "chords": [
+            { "chord": "Fm", "position": 0 },
+            { "chord": "Ab", "position": 10 },
+            { "chord": "Db", "position": 20 },
+            { "chord": "Bb", "position": 30 }
+          ],
+          "lyrics": "Can I get another Amen? (Amen!)"
+        },
+        {
+          "chords": [
+            { "chord": "Eb", "position": 0 },
+            { "chord": "C", "position": 10 }
+          ],
+          "lyrics": "There's a flag wrapped around a score of men (Hey!)"
+        },
+        {
+          "chords": [
+            { "chord": "Fm", "position": 0 },
+            { "chord": "Ab", "position": 10 },
+            { "chord": "Db", "position": 20 },
+            { "chord": "Bb", "position": 30 }
+          ],
+          "lyrics": "A gag, a plastic bag on a monument"
+        }
+      ]
+    },
+    {
+      "section": "Chorus",
+      "lines": [
+        {
+          "chords": [
+            { "chord": "Fm", "position": 0 },
+            { "chord": "Db", "position": 15 },
+            { "chord": "Ab", "position": 25 },
+            { "chord": "Eb", "position": 35 }
+          ],
+          "lyrics": "I beg to dream and differ from the hollow lies"
+        },
+        {
+          "chords": [
+            { "chord": "Fm", "position": 0 },
+            { "chord": "Db", "position": 15 },
+            { "chord": "Ab", "position": 25 },
+            { "chord": "C", "position": 35 }
+          ],
+          "lyrics": "This is the dawning of the rest of our lives"
+        },
+        {
+          "chords": [
+            { "chord": "Fm", "position": 0 },
+            { "chord": "Db", "position": 3 },
+            { "chord": "Ab", "position": 6 },
+            { "chord": "Eb", "position": 9 }
+          ],
+          "lyrics": "On holiday"
+        }
+      ]
+    },
+    {
+      "section": "Bridge",
+      "lines": [
+        {
+          "chords": [],
+          "lyrics": "(Spoken)"
+        },
+        {
+          "chords": [],
+          "lyrics": "The representative from California has the floor:"
+        },
+        {
+          "chords": [],
+          "lyrics": "Sieg Heil to the president Gasman"
+        },
+        {
+          "chords": [],
+          "lyrics": "Bombs away is your punishment"
+        },
+        {
+          "chords": [],
+          "lyrics": "Pulverize the Eiffel Towers"
+        },
+        {
+          "chords": [],
+          "lyrics": "Criticize your government"
+        },
+        {
+          "chords": [],
+          "lyrics": "Bang bang goes the broken glass and"
+        },
+        {
+          "chords": [],
+          "lyrics": "Kill all the fags that don't agree"
+        },
+        {
+          "chords": [],
+          "lyrics": "Trials by fire, setting fire"
+        },
+        {
+          "chords": [],
+          "lyrics": "Is not a way that's meant for me"
+        },
+        {
+          "chords": [],
+          "lyrics": "Just cause, because we're outlaws yeah!"
+        }
+      ]
+    },
+    {
+      "section": "Chorus",
+      "lines": [
+        {
+          "chords": [
+            { "chord": "Fm", "position": 0 },
+            { "chord": "Db", "position": 15 },
+            { "chord": "Ab", "position": 25 },
+            { "chord": "Eb", "position": 35 }
+          ],
+          "lyrics": "I beg to dream and differ from the hollow lies"
+        },
+        {
+          "chords": [
+            { "chord": "Fm", "position": 0 },
+            { "chord": "Db", "position": 15 },
+            { "chord": "Ab", "position": 25 },
+            { "chord": "C", "position": 35 }
+          ],
+          "lyrics": "This is the dawning of the rest of our lives"
+        },
+        {
+          "chords": [
+            { "chord": "Fm", "position": 0 },
+            { "chord": "Db", "position": 15 },
+            { "chord": "Ab", "position": 25 },
+            { "chord": "Eb", "position": 35 }
+          ],
+          "lyrics": "I beg to dream and differ from the hollow lies"
+        },
+        {
+          "chords": [
+            { "chord": "Fm", "position": 0 },
+            { "chord": "Db", "position": 15 },
+            { "chord": "Ab", "position": 25 },
+            { "chord": "C", "position": 35 }
+          ],
+          "lyrics": "This is the dawning of the rest of our lives"
+        },
+        {
+          "chords": [
+            { "chord": "Fm", "position": 0 },
+            { "chord": "Db", "position": 8 },
+            { "chord": "Ab", "position": 11 },
+            { "chord": "Eb", "position": 14 }
+          ],
+          "lyrics": "This is our lives on holiday"
+        }
+      ]
+    },
+    {
+      "section": "Outro",
+      "lines": [
+        {
+          "chords": [
+            { "chord": "Fm", "position": 0 },
+            { "chord": "Db", "position": 4 },
+            { "chord": "Ab", "position": 8 },
+            { "chord": "Eb", "position": 12 }
+          ],
+          "lyrics": "Fm  Db  Ab  Eb"
+        },
+        {
+          "chords": [
+            { "chord": "Fm", "position": 0 },
+            { "chord": "Db", "position": 4 },
+            { "chord": "Ab", "position": 8 },
+            { "chord": "Eb", "position": 12 }
+          ],
+          "lyrics": "Fm  Db  Ab  Eb"
+        },
+        {
+          "chords": [
+            { "chord": "Fm", "position": 0 },
+            { "chord": "Db", "position": 4 },
+            { "chord": "Eb", "position": 8 },
+            { "chord": "C", "position": 12 },
+            { "chord": "Fm", "position": 16 }
+          ],
+          "lyrics": "Fm  Db  Eb  C  Fm"
+        }
+      ]
+    }
+  ]
+}
